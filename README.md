@@ -20,6 +20,12 @@ Mr. Analyst is the data analyst in the supply chain team who joined GDS Mart rec
 • Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
 
+## Data Model 
+
+![Screenshot 2023-11-05 072813](https://github.com/Sandesh-DA/GDS_Mart_Supply_Chain_Analysis/assets/149552113/2fa866e5-f173-42e7-999d-035ad5e8b852)
+
+## Dashboard
+![Screenshot 2023-11-05 072642](https://github.com/Sandesh-DA/GDS_Mart_Supply_Chain_Analysis/assets/149552113/14bce7ad-253c-429f-b414-de3eca6864a9)
 
 
 
@@ -30,9 +36,8 @@ Mr. Analyst is the data analyst in the supply chain team who joined GDS Mart rec
 •	On an average, orders are delayed 0.42 days from the agreed date of delivery
 
 •	Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time 
-           
-     • Is it because we are not estimating the right delivery date?
-     • Is it because we are receiving more orders than expected?
+               • Is it because we are not estimating the right delivery date?
+               • Is it because we are receiving more orders than expected?
   
 
 
